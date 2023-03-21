@@ -7,6 +7,19 @@
 
 <br/>
 
+# Table of Content
+1. [Introduction](#1-introduction)
+2. [Arbitrage Trading Bot](#2-arbitrage-trading-bot)
+3. [How Arbitrdr works](#3-how-arbitrdr-works)
+4. [Advantages of Automated Trading](#4-advantages-of-automated-trading)
+5. [User Benefits and Liquidity Pool](#5-user-benefits-and-liquidity-pool)
+6. [Liquidity Pool Governance and User Subscriptions](#6-liquidity-pool-governance-and-user-subscriptions)
+7. [Conclusion](#7-conclusion)
+
+---
+
+<br/>
+
 ## 1. Introduction
 ### Cryptocurrency arbitrage trading 
 This involves buying and selling the same cryptocurrency at different prices across multiple exchanges in order to make a profit from the price discrepancy. Arbitrage trading can be particularly lucrative in the volatile cryptocurrency market, but it requires a great deal of speed and accuracy to take advantage of these opportunities before they disappear.
@@ -95,11 +108,30 @@ In addition to the potential profits from trading, users may also benefit from o
 
 Overall, our cryptocurrency arbitrage trading bot offers users a convenient and potentially profitable way to participate in the cryptocurrency futures markets without having to actively manage their trades. By staking their funds in our liquidity pool, users can benefit from our trading bot's arbitrage strategies and potentially earn profits without having to monitor the markets themselves.
 
+## 6. Liquidity Pool Governance and User Subscriptions
+
+The liquidity pool is controlled by a smart contract deployed on the Ethereum blockchain. Users can connect their Metamask wallet to our platform and interact with the smart contract to perform functions such as staking, claiming rewards, and subscribing to our service.
+
+> To stake funds into the liquidity pool, users simply need to:
+* Connect their Metamask wallet 
+* Send the desired amount of cryptocurrency to the smart contract address 
+
+The smart contract will then automatically add the user's funds to the liquidity pool.
+<br/>
+
+
+Users can also claim rewards from the liquidity pool by interacting with the smart contract. The rewards are distributed automatically based on the user's stake and the profits generated from arbitrage trades executed by our trading bot. The profits are automatically reinvested back into the liquidity pool, potentially leading to even greater returns over time.
+
+### User Subscription
+To subscribe to our service, users can also interact with the smart contract. By subscribing, users can access our cryptocurrency arbitrage trading bot and benefit from the potential profits generated from arbitrage trades executed in the futures markets of cryptocurrency exchanges like Binance, Bybit, Phemex, Huobi, and others.
+
+The logic for all of these functions is programmed into the smart contract, ensuring that they are executed in a secure and transparent manner on the Ethereum blockchain. Users can have confidence in the security and reliability of our platform, knowing that their funds and investments are protected by the blockchain technology.
+
 ---
 
 <br/>
 
-## 6. Conclusion
+## 7. Conclusion
 In conclusion, our cryptocurrency arbitrage trading bot provides an innovative and highly efficient way to take advantage of arbitrage opportunities in the cryptocurrency futures markets. Our trading bot operates 24/7 and is designed to execute trades quickly and efficiently, reducing the risk of human error and emotional biases. By using our trading bot, users can benefit from the speed and accuracy of automated trading, while also taking advantage of the potential profits from arbitrage trading.
 
 <br/>
