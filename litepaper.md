@@ -41,6 +41,7 @@ Using an automated trading bot like ours can help traders take advantage of arbi
 ## 3. How Arbitrdr works
 ### Technical details 
 Our bot is built on top of a sophisticated algorithm that continuously scans multiple cryptocurrency futures markets for price discrepancies. The algorithm is designed to identify arbitrage opportunities quickly and efficiently, allowing traders to take advantage of these opportunities before they disappear.
+<br/>
 
 ### Determining the best trades 
 The bot takes into account a number of factors when determining the best trades to make. These factors may include liquidity, volume, fees, and the overall market conditions. By taking these factors into account, the bot can make informed decisions about which trades to execute.
@@ -57,14 +58,19 @@ The bot continuously monitors the price spread between the two exchanges and clo
 
 ## 4. Advantages of Automated Trading
 Automated trading refers to the use of computer algorithms to execute trades in financial markets. In the context of our cryptocurrency arbitrage trading bot, automated trading provides several advantages over manual trading.
+<br/>
 
 * **Faster Trade Execution**: One of the key advantages of automated trading is the ability to execute trades quickly and efficiently. Our trading bot is designed to scan multiple cryptocurrency futures markets simultaneously and identify arbitrage opportunities in real-time. This allows our bot to execute trades faster than a human trader could, giving us a competitive advantage in the market.
+<br/>
 
 * **Reduced Risk of Human Error**: Another advantage of automated trading is the reduced risk of human error. Human traders are prone to making mistakes due to fatigue, distraction, or emotional biases. These errors can lead to missed opportunities or incorrect trades that result in losses. Our trading bot is programmed to follow a set of rules and execute trades based on objective criteria, eliminating the risk of human error.
+<br/>
 
 * **Improved Efficiency**: Automated trading also improves trading efficiency. Our trading bot can operate 24/7 without needing breaks, allowing it to take advantage of market opportunities that might arise outside of regular trading hours. Additionally, our trading bot can simultaneously monitor multiple cryptocurrency futures markets and execute trades across multiple exchanges. This allows us to take advantage of arbitrage opportunities that might not be available to a human trader who is limited by their capacity to monitor multiple markets simultaneously.
+<br/>
 
 When compared to manual trading, automated trading can reduce the risk of emotional and cognitive biases that can negatively impact trading performance. For example, human traders may be prone to making emotional decisions based on fear or greed, which can lead to poor trading decisions. Cognitive biases such as overconfidence or confirmation bias can also lead to poor trading decisions. Our trading bot is not subject to these biases and follows a set of rules that are based on objective criteria.
+<br/>
 
 Overall, the advantages of automated trading are numerous and can provide a competitive advantage in the cryptocurrency futures markets. By using our automated trading bot for cryptocurrency arbitrage, we can execute trades faster, reduce the risk of human error, and improve trading efficiency compared to manual trading.
 
